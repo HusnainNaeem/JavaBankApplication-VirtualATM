@@ -1,7 +1,3 @@
-
-![](https://github.com/HusnainNaeem/JavaBankApplication-VirtualATM/assets/134217312/8b39a32f-26e8-44f9-bf71-4d4fcdd68dce)
-
-
 # Java Banking Application with Virtual ATM Machine - MVC Based Application
 
 ## **1. Introduction**
