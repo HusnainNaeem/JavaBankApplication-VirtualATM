@@ -2,7 +2,7 @@
 
 ## **1. Introduction**
 Overview of the Project
-The Java Banking Application with Virtual ATM Machine is a comprehensive and user-friendly banking application that emulates an ATM machine. The project is built on the Model-View-Controller (MVC) design pattern, ensuring a modular and maintainable codebase.
+The Java Banking Application with Virtual ATM Machine is a comprehensive and user-friendly banking application that emulates an ATM machine. The project is built on the Model-View-Controller (MVC) design pattern, ensuring a modular and maintainable codebase.***You Can also change the name of the bank according to you choice(Just change in FirstView.java file )***
 
 https://github.com/HusnainNaeem/JavaBankApplication-VirtualATM/assets/134217312/8b39a32f-26e8-44f9-bf71-4d4fcdd68dce
 
